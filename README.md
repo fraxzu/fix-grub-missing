@@ -58,6 +58,8 @@ sudo nano /etc/default/grub
 GRUB_DISABLE_OS_PROBER=false
 ```
 
+![alt text](img/1.png)
+
 ## Click on Keyboard
 
 ### CTRL + O
