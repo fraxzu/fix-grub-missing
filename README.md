@@ -75,7 +75,7 @@ grub-mkconfig -o /boot/grub/grub/cfg
 
 ### if you found windows boot manager, you can reboot the system
 
-if it don't show. You need to boot on arch linux (before booting into arch linux, make sure to unplug the bootable usb. )
+if it don't show. You need to boot on arch linux (before booting into arch linux, make sure to unplug the bootable usb)
 
 follow this command:
 
